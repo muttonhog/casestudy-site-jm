@@ -28,7 +28,7 @@ export default function Home() {
                 href="/thinking"
                 className="underline-offset-4 hover:underline"
               >
-                How I think
+                Reflections
               </a>
             </li>
             <li>
